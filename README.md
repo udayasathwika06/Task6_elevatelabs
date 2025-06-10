@@ -41,18 +41,18 @@ Analyze monthly revenue and order volume using SQL aggregation techniques.
 - 📦 Deliverables
 
 ✅ 1. SQL Script
-File: SQL_script.sql
-Includes all 10 analytical SQL queries with proper formatting and comments:
-Highlights:
-Monthly revenue and order volume using GROUP BY and EXTRACT
-Revenue trends filtered by date
-Daily and monthly trends
-Top 5 months by revenue
-Product-wise and quarterly summaries
+- File: SQL_script.sql
+- Includes all 10 analytical SQL queries with proper formatting and comments:
+- Highlights:
+- Monthly revenue and order volume using GROUP BY and EXTRACT
+- Revenue trends filtered by date
+- Daily and monthly trends
+- Top 5 months by revenue
+- Product-wise and quarterly summaries
 
 ✅ 2. Screenshots & Results
-File: queries+results_screenshots.pdf
-Contains visual confirmation of:
-Table creation
-Each query's execution
-Results preview for validation
+- File: queries+results_screenshots.pdf
+- Contains visual confirmation of:
+- Table creation
+- Each query's execution
+- Results preview for validation
